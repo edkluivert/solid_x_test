@@ -1,4 +1,4 @@
-# solid_x_test
+# SOLID_X_TEST
 
 A robust testing utility library for the `solid_x` state management package.
 
