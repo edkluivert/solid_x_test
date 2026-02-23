@@ -13,8 +13,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  solid_x:
-    path: ../solid
+  solid_x: ^2.1.2
   meta: ^1.15.0
   flutter_test:
     sdk: flutter
