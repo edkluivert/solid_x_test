@@ -1,0 +1,21 @@
+name: solid_x_test
+description: Testing utilities for the solidx state management package.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.10.8
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  solid_x:
+    path: ../solid
+  meta: ^1.15.0
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
