@@ -1,4 +1,4 @@
-## 1.0.0
+## 1.0.1
 
 * Initial release of `solid_x_test`.
 * Includes `solidTest` utility for testing `Solid` ViewModel streams and interactions.

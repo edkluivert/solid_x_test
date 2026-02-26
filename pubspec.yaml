@@ -1,6 +1,6 @@
 name: solid_x_test
 description: Testing utilities for the solidx state management package.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/edkluivert/solid_x_test
 repository: https://github.com/edkluivert/solid_x_test
 issue_tracker: https://github.com/edkluivert/solid_x_test/issues
